@@ -39,7 +39,7 @@ git clone https://github.com/virajbhutada/NetflixViz-TableauDashboard.git
 
 ## Contributing
 
-Contributions and enhancements to the project are warmly welcomed. Feel free to open an issue or submit a pull request for improvements, bug fixes, or new features.
+Contributions and enhancements to the project are warmly welcomed. Feel free to open an issue or submit a [pull request](https://github.com/virajbhutada/NetflixViz-TableauDashboard/pulls) for improvements, bug fixes, or new features.
 
 ---
 
