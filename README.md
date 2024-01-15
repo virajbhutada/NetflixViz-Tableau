@@ -41,8 +41,10 @@ git clone https://github.com/virajbhutada/NetflixViz-TableauDashboard.git
 
 Contributions and enhancements to the project are warmly welcomed. Feel free to open an issue or submit a pull request for improvements, bug fixes, or new features.
 
+---
+
 ## Connect with Me
 
-LinkedIn: [Viraj Bhutada](https://www.linkedin.com/in/virajbhutada/)
+#### LinkedIn: [Viraj Bhutada](https://www.linkedin.com/in/virajbhutada/)
 
 Explore, analyze, and discover the world of Netflix with the NetflixViz-TableauDashboard. 🌐📊
