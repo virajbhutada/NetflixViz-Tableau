@@ -2,6 +2,8 @@
 
 Unlock the richness of Netflix's extensive content library with an immersive Tableau dashboard. Delve into a diverse collection of movies and TV shows, analyzing essential details such as show ID, type, title, director, cast, country, date added, release year, rating, duration, listed genres, and captivating descriptions.
 
+---
+
 ## Project Highlights
 
 - **Interactive Exploration:**
@@ -23,11 +25,15 @@ Unlock the richness of Netflix's extensive content library with an immersive Tab
 - **Engaging Descriptions:**
   - Enhance user engagement with detailed descriptions for each movie and TV show, adding a layer of depth to the exploration experience.
 
+---
+
 ## Visualization Snapshot
 
 Explore a glimpse of the NetflixViz Tableau dashboard, showcasing an intuitive interface for in-depth content analysis. Immerse yourself in the world of Netflix, where data-driven insights meet an engaging user experience.
 
 ![NetflixViz Snapshot](https://github.com/virajbhutada/NetflixViz-TableauDashboard/assets/143819712/849fdfbe-3e0a-4cc1-94dc-f1cefc86dd60)
+
+---
 
 ## Getting Started
 
