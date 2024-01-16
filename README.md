@@ -51,6 +51,6 @@ Contributions and enhancements to the project are warmly welcomed. Feel free to 
 
 ## Connect with Me
 
-#### LinkedIn: [Viraj Bhutada](https://www.linkedin.com/in/virajbhutada/)
+### LinkedIn: [Viraj Bhutada](https://www.linkedin.com/in/virajbhutada/)
 
 Explore, analyze, and discover the world of Netflix with the NetflixViz-TableauDashboard. 🌐📊
