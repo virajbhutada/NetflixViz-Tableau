@@ -40,12 +40,12 @@ Here's a glimpse of the NetflixViz Tableau dashboard, showcasing an intuitive in
 Clone the repository and access the Tableau dashboard to embark on an insightful journey through Netflix's diverse content landscape.
 
 ```bash
-git clone https://github.com/virajbhutada/NetflixViz-TableauDashboard.git
+git clone https://github.com/virajbhutada/NetflixViz-Tableau.git
 ```
 
 ## Contributing
 
-Contributions and enhancements to the project are warmly welcomed. Feel free to open an issue or submit a [pull request](https://github.com/virajbhutada/NetflixViz-TableauDashboard/pulls) for improvements, bug fixes, or new features.
+Contributions and enhancements to the project are warmly welcomed. Feel free to open an issue or submit a [pull request](https://github.com/virajbhutada/NetflixViz-Tableau/pulls) for improvements, bug fixes, or new features.
 
 ---
 
