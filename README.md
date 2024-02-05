@@ -1,4 +1,4 @@
-# NetflixViz-TableauDashboard
+# NetflixViz-TableauDashboar
 
 Unlock the richness of Netflix's extensive content library with an immersive Tableau dashboard. Delve into a diverse collection of movies and TV shows, analyzing essential details such as show ID, type, title, director, cast, country, date added, release year, rating, duration, listed genres, and captivating descriptions.
 
