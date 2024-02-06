@@ -31,7 +31,8 @@ Unlock the richness of Netflix's extensive content library with an immersive Tab
 
 Here's a glimpse of the NetflixViz Tableau dashboard, showcasing an intuitive interface for in-depth content analysis. Immerse yourself in the world of Netflix, where data-driven insights meet an engaging user experience.
 
-![NetflixViz Snapshot](https://github.com/virajbhutada/NetflixViz-TableauDashboard/assets/143819712/849fdfbe-3e0a-4cc1-94dc-f1cefc86dd60)
+|![Netflix_Dashboard](https://github.com/virajbhutada/NetflixViz-Tableau/assets/143819712/8c4510a2-5537-4814-889e-72fbecaf1cb6)|![Overview](https://github.com/virajbhutada/NetflixViz-Tableau/assets/143819712/cb28a982-1ebf-4fe0-8d4f-731dc69c12d7)|
+|:--:|:--:|
 
 ---
 
